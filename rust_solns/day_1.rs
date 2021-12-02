@@ -30,7 +30,7 @@ pub fn day_1_1() {
         }
         a = i
     }
-    println!("Answer: {}", count);
+    println!("Day 1 Answer: {}", count);
 }
 
 pub fn day_1_2() {
@@ -60,5 +60,5 @@ pub fn day_1_2() {
         b = c;
         prev_sum = cur_sum;
     }
-    println!("Answer: {}", count-1);
+    println!("Day 1 Answer: {}", count-1);
 }
