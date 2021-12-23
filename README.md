@@ -12,3 +12,7 @@ Day 11:
 Day 13:
 
 ![](https://github.com/ben-yu/advent_2021/blob/main/py_soln/day_13.png?raw=true)
+
+Day 22:
+
+![](https://github.com/ben-yu/advent_2021/blob/main/day_22.gif?raw=true)
